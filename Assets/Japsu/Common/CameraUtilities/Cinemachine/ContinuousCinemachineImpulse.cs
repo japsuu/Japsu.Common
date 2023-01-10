@@ -1,7 +1,7 @@
 ﻿using Cinemachine;
 using UnityEngine;
 
-namespace Japsu.Common.Camera.Cinemachine
+namespace Japsu.Common.CameraUtilities.Cinemachine
 {
     public class ContinuousCinemachineImpulse : MonoBehaviour
     {
@@ -14,7 +14,7 @@ namespace Japsu.Common.Camera.Cinemachine
 
         private void Update()
         {
-            var now = Time.time;
+            float now = Time.time;
             float eventLength = ImpulseDefinition.m_TimeEnvelope.m_AttackTime + ImpulseDefinition.m_TimeEnvelope.m_SustainTime;
             if (Active && now - lastEventTime > eventLength)
             {

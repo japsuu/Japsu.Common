@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Japsu.Common.Singletons
+namespace Japsu.Common.Helpers.Singletons
 {
     public class PersistantSingleton<T> : MonoBehaviour where T : Component
     {

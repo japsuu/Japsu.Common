@@ -3,7 +3,7 @@
 // ReSharper disable StaticMemberInGenericType
 // ReSharper disable FieldCanBeMadeReadOnly.Local
 
-namespace Japsu.Common.Singletons
+namespace Japsu.Common.Helpers.Singletons
 {
     public class SingletonBehaviour<T> : MonoBehaviour where T : MonoBehaviour
     {

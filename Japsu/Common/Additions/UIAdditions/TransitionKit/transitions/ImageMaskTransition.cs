@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 /// </summary>
 
 
-namespace Japsu.Common.UIAdditions.TransitionKit.transitions
+namespace Japsu.Common.Additions.UIAdditions.TransitionKit.transitions
 {
     public class ImageMaskTransition : TransitionKitDelegate
     {

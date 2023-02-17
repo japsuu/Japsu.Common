@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Japsu.Common.UIAdditions.TransitionKit
+namespace Japsu.Common.Additions.UIAdditions.TransitionKit
 {
     public class TransitionKit : MonoBehaviour
     {

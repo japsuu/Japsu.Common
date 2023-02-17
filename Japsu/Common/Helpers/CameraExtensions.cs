@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-namespace Japsu.Common.CameraAdditions
+namespace Japsu.Common.Helpers
 {
     public static class CameraExtensions
     {

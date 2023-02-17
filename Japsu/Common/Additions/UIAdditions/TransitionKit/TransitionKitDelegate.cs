@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Japsu.Common.UIAdditions.TransitionKit
+namespace Japsu.Common.Additions.UIAdditions.TransitionKit
 {
     /// <summary>
     /// this is the interface an object must conform to for use with TransitionKit. Delegates can return custom shaders, meshes

@@ -5,7 +5,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Japsu.Common.DebugTools.CommandTerminal
+namespace Japsu.Common.Tools.DebugTools.CommandTerminal
 {
     public enum TerminalState
     {

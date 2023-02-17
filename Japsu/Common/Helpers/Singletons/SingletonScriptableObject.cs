@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Japsu.Common.Singletons
+namespace Japsu.Common.Helpers.Singletons
 {
     public class SingletonScriptableObject<T> : ScriptableObject where T : SingletonScriptableObject<T>
     {

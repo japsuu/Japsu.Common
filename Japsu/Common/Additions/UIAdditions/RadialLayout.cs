@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace Japsu.Common.UIAdditions
+namespace Japsu.Common.Additions.UIAdditions
 {
     /// <summary>
     /// https://gist.github.com/baba-s/69aeecead940ac9f49cd890c2704f8bd

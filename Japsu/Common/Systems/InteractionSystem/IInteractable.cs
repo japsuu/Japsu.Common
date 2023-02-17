@@ -1,4 +1,4 @@
-namespace Japsu.Common.InteractionSystem
+namespace Japsu.Common.Systems.InteractionSystem
 {
     public interface IInteractable
     {

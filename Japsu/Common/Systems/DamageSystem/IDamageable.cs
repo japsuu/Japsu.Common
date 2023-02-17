@@ -1,4 +1,4 @@
-﻿namespace Japsu.Common.DamageSystem
+﻿namespace Japsu.Common.Systems.DamageSystem
 {
     public interface IDamageable
     {

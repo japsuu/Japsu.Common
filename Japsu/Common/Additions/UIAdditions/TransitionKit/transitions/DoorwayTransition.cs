@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Japsu.Common.UIAdditions.TransitionKit.transitions
+namespace Japsu.Common.Additions.UIAdditions.TransitionKit.transitions
 {
     /// <summary>
     /// the Doorway shader can have _Progress run from 0 to -1 or 0 to 1. The runEffectInReverse controls that.

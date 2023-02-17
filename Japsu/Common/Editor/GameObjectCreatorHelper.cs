@@ -13,11 +13,13 @@ namespace Japsu.Common.Editor
         // }
         
         [MenuItem("GameObject/--- Spacer ---", priority = -100)]
-        private static void CreateVFXSystem()
+        private static void CreateSpacer()
         {
             GameObject go = new GameObject("------- XXX ------");
             
             go.SetActive(false);
+
+            go.tag = "EditorOnly";
 
             if (Selection.activeGameObject != null)
             {

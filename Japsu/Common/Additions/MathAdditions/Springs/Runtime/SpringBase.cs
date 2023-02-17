@@ -1,4 +1,4 @@
-namespace Japsu.Common.MathAdditions.Springs.Runtime
+namespace Japsu.Common.Additions.MathAdditions.Springs.Runtime
 {
     public abstract class SpringBase
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Japsu.Common.MessagingSystem.EventSystem
+namespace Japsu.Common.Systems.MessagingSystem.EventSystem
 {
     [System.Serializable]
     public class EventResponse : UnityEvent<object> {}

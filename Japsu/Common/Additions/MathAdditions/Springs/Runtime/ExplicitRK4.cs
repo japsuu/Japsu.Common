@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Japsu.Common.MathAdditions.Springs.Runtime
+namespace Japsu.Common.Additions.MathAdditions.Springs.Runtime
 {
     /// <summary>
     /// Explicit Runge-Kutta 4th order aka RK4

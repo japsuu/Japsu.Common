@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Japsu.Common.MathAdditions.Springs.Runtime
+namespace Japsu.Common.Additions.MathAdditions.Springs.Runtime
 {
     /// <summary>
     /// Verlet Integration

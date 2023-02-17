@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 // based on the handy Frictionless simple DI ServiceFactory
-namespace Japsu.Common.MessagingSystem.MessageKit
+namespace Japsu.Common.Systems.MessagingSystem.MessageKit
 {
     public class LocatorKit
     {

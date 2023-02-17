@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Japsu.Common.MathAdditions
+namespace Japsu.Common.Helpers
 {
     public static class MathHelper
     {

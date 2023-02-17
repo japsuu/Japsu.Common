@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Japsu.Common.DebugTools.CommandTerminal
+namespace Japsu.Common.Tools.DebugTools.CommandTerminal
 {
     public class CommandShell
     {

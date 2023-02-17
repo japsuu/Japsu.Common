@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Japsu.Common.TransformTools
+namespace Japsu.Common.Tools.TransformTools
 {
     public enum UpdateMethod
     {

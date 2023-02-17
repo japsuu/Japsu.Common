@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 using System.Reflection;
-using Japsu.Common.MathAdditions.Springs.Runtime;
+using Japsu.Common.Additions.MathAdditions.Springs.Runtime;
 using UnityEditor;
 using UnityEngine;
 using static UnityEditor.EditorGUI;

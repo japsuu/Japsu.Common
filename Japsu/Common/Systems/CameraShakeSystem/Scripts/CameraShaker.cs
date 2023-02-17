@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using Japsu.Common.CameraAdditions.EZ_Camera_Shake.Scripts.Utilities;
+using Japsu.Common.Systems.CameraShakeSystem.Scripts.Utilities;
 using UnityEngine;
 
-namespace Japsu.Common.CameraAdditions.EZ_Camera_Shake.Scripts
+namespace Japsu.Common.Systems.CameraShakeSystem.Scripts
 {
     [AddComponentMenu("EZ Camera Shake/Camera Shaker")]
     public class CameraShaker : MonoBehaviour

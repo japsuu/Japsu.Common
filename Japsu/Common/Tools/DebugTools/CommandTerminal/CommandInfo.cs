@@ -1,6 +1,6 @@
 using System;
 
-namespace Japsu.Common.DebugTools.CommandTerminal
+namespace Japsu.Common.Tools.DebugTools.CommandTerminal
 {
     public struct CommandInfo
     {

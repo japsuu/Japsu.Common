@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Japsu.Common.MessagingSystem.EventSystem
+namespace Japsu.Common.Systems.MessagingSystem.EventSystem
 {
     [CreateAssetMenu(menuName="EventChannel", fileName="EventChannel_")]
     public class EventChannel : ScriptableObject

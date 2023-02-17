@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace Japsu.Common.DebugTools.CommandTerminal
+namespace Japsu.Common.Tools.DebugTools.CommandTerminal
 {
     public struct CommandArg
     {

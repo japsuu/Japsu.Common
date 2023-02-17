@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Japsu.Common.InteractionSystem
+namespace Japsu.Common.Systems.InteractionSystem
 {
     public class InteractionManager : MonoBehaviour
     {

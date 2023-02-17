@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using UnityEngine;
 
-namespace Japsu.Common.DebugTools.CommandTerminal
+namespace Japsu.Common.Tools.DebugTools.CommandTerminal
 {
     public static class BuiltinCommands
     {

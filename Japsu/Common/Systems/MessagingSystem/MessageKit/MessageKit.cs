@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Japsu.Common.MessagingSystem.MessageKit
+namespace Japsu.Common.Systems.MessagingSystem.MessageKit
 {
     /// <summary>
     /// think of MessageKit as a safe, fast replacement for SendMessage. Decoupled messages identified by an int. It is recommended to define

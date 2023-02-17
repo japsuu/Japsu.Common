@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Japsu.Common.UIAdditions.TransitionKit.transitions
+namespace Japsu.Common.Additions.UIAdditions.TransitionKit.transitions
 {
     public class TriangleSlicesTransition : TransitionKitDelegate
     {

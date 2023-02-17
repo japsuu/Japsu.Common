@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Japsu.Common.UIAdditions
+namespace Japsu.Common.Additions.UIAdditions
 {
     /// <summary>
     /// https://gist.github.com/baba-s/100b68db60da4e564356d836be44876e

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Japsu.Common.CameraAdditions.EZ_Camera_Shake.Scripts.Utilities
+namespace Japsu.Common.Systems.CameraShakeSystem.Scripts.Utilities
 {
     public static class CameraUtilities
     {

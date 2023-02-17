@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Japsu.Common.InputAdditions
+namespace Japsu.Common.Helpers.InputHelpers
 {
     public static class CursorHelper
     {

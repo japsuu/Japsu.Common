@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace Japsu.Common.UIAdditions
+namespace Japsu.Common.Additions.UIAdditions
 {
     [AddComponentMenu("Layout/Extensions/Curved Layout")]
     public class CurvedLayout : LayoutGroup

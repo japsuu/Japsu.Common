@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Japsu.Common.MessagingSystem.MessageKit
+namespace Japsu.Common.Systems.MessagingSystem.MessageKit
 {
     public interface MessageReceiver
     {

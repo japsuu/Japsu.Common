@@ -1,7 +1,7 @@
 ﻿using Cinemachine;
 using UnityEngine;
 
-namespace Japsu.Common.CameraAdditions.Cinemachine
+namespace Japsu.Common.Additions.CameraAdditions.CinemachineAdditions
 {
     public class ContinuousCinemachineImpulse : MonoBehaviour
     {

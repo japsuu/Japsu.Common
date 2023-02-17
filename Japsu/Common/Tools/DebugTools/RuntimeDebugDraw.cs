@@ -4,7 +4,7 @@ using System.Diagnostics;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Japsu.Common.DebugTools
+namespace Japsu.Common.Tools.DebugTools
 {
     /*
  *	Runtime Debug Draw
